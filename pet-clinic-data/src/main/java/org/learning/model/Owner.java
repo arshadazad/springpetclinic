@@ -1,4 +1,4 @@
-package org.learning.springpetclinic.model;
+package org.learning.model;
 
 /**
  * @author M1009426 ..

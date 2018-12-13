@@ -5,4 +5,4 @@
  * @author M1009426
  *
  */
-package org.learning.springpetclinic.model;
+package org.learning.model;
